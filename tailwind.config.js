@@ -10,6 +10,8 @@ export default {
         square: ['Square', 'sans-serif'],
         squareo: ['Squareo', 'sans-serif'],
         ptsans: ['PTSans', 'sans-serif'],
+        porticoo: ['PorticoO', 'sans-serif'],
+        porticor: ['PorticoR', 'sans-serif'],
       },
     },
   },

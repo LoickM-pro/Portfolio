@@ -20,8 +20,9 @@ function NavBar() {
   //   </div>
   // </nav>
 
-  <div class="font-ptsans sticky top-0 container flex flex-row justify-center my-3">
-        <nav class="bg-gradient-to-r from-cyan-400/20 to-purple-600/20 flex items-center gap-3 px-3 py-3 border text-white rounded-full ">
+
+  <div class="font-ptsans flex justify-center my-3">
+        <nav class="sticky bg-gradient-to-r from-cyan-400/20 to-purple-600/20 flex items-center gap-3 px-3 py-3 border text-white rounded-full">
             <ul class="flex flex-row items-center gap-2 p-2 ">
                <li>
                     <a href=""
@@ -56,7 +57,6 @@ function NavBar() {
             </ul>
         </nav>
     </div>
-
   )
 }
 

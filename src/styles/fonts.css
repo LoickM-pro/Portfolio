@@ -1,20 +1,20 @@
 @font-face {
-    font-family: 'Square';
-    src: url('/src/assets/fonts/Square.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-@font-face {
-     font-family: 'Squareo';
-     src: url('/src/assets/fonts/Squareo.ttf') format('truetype');
-     font-weight: normal;
-     font-style: normal;
-   }
-
-@font-face {
     font-family: 'PTSans';
     src: url('/src/assets/fonts/PTSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
+
+@font-face {
+    font-family: 'PorticoO';
+    src: url('/src/assets/fonts/Portico Outline.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'PorticoR';
+    src: url('/src/assets/fonts/Portico Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }  
