@@ -27,7 +27,7 @@ function NavBar() {
                <li>
                     <a href=""
                         class="px-3 py-2 hover:transparent text-black hover:bg-gradient-to-r from-cyan-400/20 to-purple-600/20 ease-in-out rounded-full transition-all cursor-pointer">
-                        Home
+                        Accueil
                     </a>
                 </li>
                 <li>
@@ -40,6 +40,12 @@ function NavBar() {
                     <a href=""
                         class="px-3 py-2 hover:transparent text-black hover:bg-gradient-to-r from-cyan-400/20 to-purple-600/20 ease-in-out rounded-full transition-all cursor-pointer">
                         Projets
+                    </a>
+                </li>
+                <li>
+                    <a href=""
+                        class="px-3 py-2 hover:transparent text-black hover:bg-gradient-to-r from-cyan-400/20 to-purple-600/20 ease-in-out rounded-full transition-all cursor-pointer">
+                        Skills
                     </a>
                 </li>
                 <li>

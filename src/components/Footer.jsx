@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <footer class="font-ptsans bg-gradient-to-r from-cyan-400/20 to-purple-600/20 rounded-lg m-2">
-            <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
+            <div class="w-full mx-auto p-4 md:py-8">
                 <div class="sm:flex sm:items-center sm:justify-between">
                     <a href="https://flowbite.com/" class="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
                         <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo" />
