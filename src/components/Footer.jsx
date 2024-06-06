@@ -9,14 +9,14 @@ function Footer() {
                         <img src="https://flowbite.com/docs/images/logo.svg" class="h-8" alt="Flowbite Logo" />
                         <span class="font-porticor text-neutral-900 self-center text-2xl whitespace-nowrap">Loick.M</span>
                     </a>
-                    <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
+                    <ul class="flex flex-wrap items-center mb-6 text-sm font-medium text-black sm:mb-0">
                         <li>
                             <a href="https://tailwindcss.com/" class="hover:underline me-4 md:me-6">Made with React + Vite and Tailwind</a>
                         </li>
                     </ul>
                 </div>
                 <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-                <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2024 <a href="https://github.com/LoickM-pro" class="hover:underline">Loïck M</a>. All Rights Reserved.</span>
+                <span class="block text-sm text-black sm:text-center">© 2024 <a href="https://github.com/LoickM-pro" class="hover:underline">Loïck M</a>. All Rights Reserved.</span>
             </div>
         </footer>
     )

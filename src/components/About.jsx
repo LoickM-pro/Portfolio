@@ -2,17 +2,12 @@ import React from 'react';
 
 function About() {
   return (
-    <div class="font-ptsans">
-      <div class="inset-0 bg-gray-500 bg-opacity-75 transition-opacity"></div>
-
-      <div class="inset-0 z-10 w-full overflow-y-auto">
-        <div class="flex min-h-full items-end justify-center p-4 text-center sm:items-center sm:p-0">
-          <div class="relative transform overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-lg">
-              <div class="text-center mb-4">
-                <h3 class="text-lg font-semibold leading-6 bg-gradient-to-r from-cyan-400/80 to-purple-600/80 inline-block text-transparent bg-clip-text">
-                  Profil -
+    <div class="font-ptsans p-24 flex flex-col items-center min-h-[85vh]">
+            <h3 class="font-ptsans mb-6 text-base font-bold leading-6 bg-gradient-to-r from-cyan-400 to-purple-600 inline-block text-transparent bg-clip-text">
+                    Profil -
                 </h3>
-              </div>
+      <div class="inset-0 bg-gray-500 bg-opacity-75 transition-opacity"></div>
+          <div class="relative transform overflow-hidden rounded-lg bg-white text-left shadow-xl transition-all sm:my-8 sm:w-full sm:max-w-lg">  
             <div class="bg-white px-4 pb-4 pt-5 sm:p-6 sm:pb-4">
               <div class="sm:flex sm:items-start">
                 <div class="mt-3 text-center sm:ml-4 sm:mt-0 sm:text-left">
@@ -25,8 +20,6 @@ function About() {
               </div>
             </div>
           </div>
-        </div>
-      </div>
     </div>
   );
 }

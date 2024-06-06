@@ -6,13 +6,13 @@ function Welcome() {
       <div class="text-center">
         <div class="space-y-5">
           <div class="group relative">
-            <h3 class="font-ptsans mb-6 text-base font-semibold leading-6 bg-gradient-to-r from-cyan-400/80 to-purple-600/80 inline-block text-transparent bg-clip-text">
+            <h3 class="font-ptsans mb-6 text-base font-bold leading-6 bg-gradient-to-r from-cyan-400 to-purple-600 inline-block text-transparent bg-clip-text">
               Accueil -
             </h3>
             <h2 class="font-ptsans mb-2 text-2xl text-gray-500">Bienvenue ! Je m'appelle</h2>
-            <h1 class="font-porticoo mb-2 text-7xl bg-gradient-to-r from-cyan-400/80 to-purple-600/80 inline-block text-transparent bg-clip-text">Loick M.</h1>
+            <h1 class="font-porticoo mb-2 text-7xl text-bold bg-gradient-to-r from-cyan-400 to-purple-600 inline-block text-transparent bg-clip-text">Loick M.</h1>
             <h2 class="font-ptsans mb-2 text-2xl text-gray-500">et je suis</h2>
-            <h1 class="font-porticoo mb-2 text-7xl bg-gradient-to-r from-cyan-400/80 to-purple-600/80 inline-block text-transparent bg-clip-text">Développeur Full-Stack</h1>
+            <h1 class="font-porticoo mb-2 text-7xl text-bold bg-gradient-to-r from-cyan-400 to-purple-600 inline-block text-transparent bg-clip-text">Développeur Full-Stack</h1>
             <div class="flex justify-center space-x-4">
               <a href="https://www.linkedin.com/in/lo%C3%AFck-marin/" class="text-blue-700 hover:text-blue-300">
                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" className="bi bi-linkedin" viewBox="0 0 16 16">
