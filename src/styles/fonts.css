@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'PTSans';
-    src: url('/src/assets/fonts/PTSans-Regular.ttf') format('truetype');
+    src: url('/assets/fonts/PTSans-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: 'PorticoO';
-    src: url('/src/assets/fonts/Portico Outline.otf') format('opentype');
+    src: url('/assets/fonts/Portico Outline.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
   }
 
 @font-face {
     font-family: 'PorticoR';
-    src: url('/src/assets/fonts/Portico Regular.otf') format('opentype');
+    src: url('/assets/fonts/Portico Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
   }  

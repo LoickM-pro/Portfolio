@@ -10,7 +10,7 @@ function Hobbies() {
             <div class="grid grid-cols-2 grid-rows-2 gap-4 mb-10">
 
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800/80 dark:border-gray-700">
-                        <img class="rounded-t-lg" src="./src/assets/images/animal.jpg" alt="" />
+                        <img class="rounded-t-lg" src="/assets/images/animal.jpg" alt="Animal" />
                     <div class="p-5">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Animaux</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -21,7 +21,7 @@ function Hobbies() {
                 </div>
 
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800/80 dark:border-gray-700">
-                        <img class="rounded-t-lg" src="./src/assets/images/game.jpg" alt="" />
+                        <img class="rounded-t-lg" src="/assets/images/game.jpg" alt="Zelda" />
                     <div class="p-5">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Jeux Vidéos</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -33,7 +33,7 @@ function Hobbies() {
                 </div>
 
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800/80 dark:border-gray-700">
-                        <img class="rounded-t-lg" src="./src/assets/images/surf.jpg" alt="" />
+                        <img class="rounded-t-lg" src="/assets/images/surf.jpg" alt="Surf" />
                     <div class="p-5">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Surf</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
@@ -44,7 +44,7 @@ function Hobbies() {
                 </div>
 
                 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800/80 dark:border-gray-700">
-                        <img class="rounded-t-lg" src="./src/assets/images/draw.jpg" alt="" />
+                        <img class="rounded-t-lg" src="/assets/images/draw.jpg" alt="Draw" />
                     <div class="p-5">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Dessin</h5>
                         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
